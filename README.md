@@ -1,1 +1,2 @@
 # odin-recipes
+Intro: In this project, I'm being challenge to do an recipe page, where I have to use the habilities I've learned so far in TheOdinProject. I will use only HTML so far, so the page is not expected to be as cute as all of the pages on the internet but I think it will be fun. 
